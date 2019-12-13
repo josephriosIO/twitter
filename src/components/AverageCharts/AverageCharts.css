@@ -1,0 +1,13 @@
+.average-row {
+  justify-content: space-between;
+  padding-top: 2rem !important;
+  padding-bottom: 3rem !important;
+}
+
+.average-circle {
+  text-align: center;
+}
+
+.level-text {
+  padding-bottom: 2rem;
+}

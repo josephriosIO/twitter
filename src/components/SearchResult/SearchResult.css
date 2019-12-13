@@ -1,0 +1,11 @@
+.level-text {
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  margin-top: 1rem;
+}
+
+th,
+td {
+  font-weight: 100;
+}
